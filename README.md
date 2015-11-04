@@ -14,3 +14,7 @@
 - K sum:
   - http://tech-wonderland.net/blog/summary-of-ksum-problems.html
 
+## Other
+- LRU Cache Implementation:
+  - http://www.programcreek.com/2013/03/leetcode-lru-cache-java/
+
