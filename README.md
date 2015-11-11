@@ -1,5 +1,9 @@
 # Interesting Algorithms
 
+## Fun with Strings
+- Longest palindromic substring (Manacher's Algorithm)
+  - http://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/
+
 ## Math Tricks
 - Finding sqr root of element w/o using sqr fxn (Fast Inverse Sqr Root - Constant Time):
   - http://www.ardendertat.com/2012/01/26/programming-interview-questions-27-squareroot-of-a-number/
