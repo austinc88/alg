@@ -3,6 +3,8 @@
 ## Fun with Strings
 - Longest palindromic substring (Manacher's Algorithm)
   - http://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/
+- Linear String Rotation in place
+  - http://articles.leetcode.com/2010/04/rotating-array-in-place.html
 
 ## Math Tricks
 - Finding sqr root of element w/o using sqr fxn (Fast Inverse Sqr Root - Constant Time):
