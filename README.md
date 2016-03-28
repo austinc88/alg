@@ -24,3 +24,7 @@
 - LRU Cache Implementation:
   - http://www.programcreek.com/2013/03/leetcode-lru-cache-java/
 
+## Machine Learning Stuff
+- Markov Chain Visualization
+  - http://setosa.io/ev/markov-chains/
+
